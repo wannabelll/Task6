@@ -1,0 +1,16 @@
+# .gitignore for IntelliJ IDEA and Java projects
+
+# Ignore IntelliJ IDEA project files
+.idea/
+*.iml
+
+# Ignore compiled class files
+*.class
+
+
+# Ignore build output directories
+/target/
+/out/
+
+# Ignore logs and other system files
+*.log
